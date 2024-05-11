@@ -1,2 +1,3 @@
-# raylib-asteroids-c
+# Asteroids
+
 Asteroids implementation with C + RayLib.

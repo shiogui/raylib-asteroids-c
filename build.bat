@@ -1,0 +1,1 @@
+cl /Wall /I include game.c lib/raylibdll.lib
